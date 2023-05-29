@@ -1,0 +1,6 @@
+:py:mod:`qrlib.datapipe`
+========================
+
+.. py:module:: qrlib.datapipe
+
+

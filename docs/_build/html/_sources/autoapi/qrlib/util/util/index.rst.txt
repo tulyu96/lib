@@ -1,0 +1,22 @@
+:py:mod:`qrlib.util.util`
+=========================
+
+.. py:module:: qrlib.util.util
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   qrlib.util.util.my_util
+
+
+
+.. py:function:: my_util()
+
+
