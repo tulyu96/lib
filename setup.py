@@ -1,11 +1,13 @@
 from setuptools import find_packages, setup
 
+__version__ = "0.0.0"
+
 setup(
     name="qrlib",
     packages=find_packages(
         include=["qrlib"],
     ),
-    version="0.1.0",
+    version=__version__,
     description="Python Library for Quantitative Trading & Investment Research",
     author="Tu",
     license="MIT",
