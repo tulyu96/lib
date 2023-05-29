@@ -1,0 +1,4 @@
+# Common files / directories to ignore
+.DS_Store
+
+*.egg-info/

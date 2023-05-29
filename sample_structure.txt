@@ -1,0 +1,16 @@
+LIB
+├── CHANGELOG.md               ┐
+├── CONDUCT.md                 │
+├── CONTRIBUTING.md            │
+├── docs                       │ Package documentation
+│   └── ...                    │
+├── LICENSE                    │
+├── README.md                  ┘
+├── pyproject.toml             ┐ 
+├── src                        │
+│   └── qrlib                  │ Package source code, metadata,
+│       ├── __init__.py        │ and build instructions 
+│       ├── moduleA.py         │
+│       └── moduleB.py         ┘
+└── tests                      ┐
+    └── ...                    ┘ Package tests
