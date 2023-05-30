@@ -1,6 +1,11 @@
 # Changelog
 <!--next-version-placeholder-->
 
+## v0.8.0 (2023-05-29)
+### Feature
+
+* New function ([`05e4bdb`](https://github.com/tulyu96/lib/commit/05e4bdbb4d6f1719cb718814ba90909a87c750b9))
+
 ## v0.7.0 (2023-05-29)
 ### Feature
 
