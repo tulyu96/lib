@@ -1,6 +1,11 @@
 # Changelog
 <!--next-version-placeholder-->
 
+## v0.4.0 (2023-05-29)
+### Feature
+
+* Cahnge config ([`8dfc11b`](https://github.com/tulyu96/lib/commit/8dfc11b6acc62ea5b76eac335d526877b5d6eb27))
+
 ## v0.3.2 (2023-05-29)
 ### Fix
 
