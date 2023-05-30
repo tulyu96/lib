@@ -1,6 +1,11 @@
 # Changelog
 <!--next-version-placeholder-->
 
+## v0.5.1 (2023-05-29)
+### Fix
+
+* Test build_command ([`f6f7d12`](https://github.com/tulyu96/lib/commit/f6f7d1274191d41d2b9a5cde7d28d7da2652b6ad))
+
 ## v0.5.0 (2023-05-29)
 ### Feature
 
