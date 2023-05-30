@@ -1,6 +1,11 @@
 # Changelog
 <!--next-version-placeholder-->
 
+## v0.7.0 (2023-05-29)
+### Feature
+
+* New change ([`a4f340e`](https://github.com/tulyu96/lib/commit/a4f340e56539969bd80f0213f41ea57d15d40d4d))
+
 ## v0.6.0 (2023-05-29)
 ### Feature
 
