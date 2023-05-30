@@ -1,6 +1,11 @@
 # Changelog
 <!--next-version-placeholder-->
 
+## v0.6.0 (2023-05-29)
+### Feature
+
+* Test new feature ([`c7a8d4c`](https://github.com/tulyu96/lib/commit/c7a8d4cc981814251f9c46b2db14b1ac884fab32))
+
 ## v0.5.1 (2023-05-29)
 ### Fix
 
