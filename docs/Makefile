@@ -5,10 +5,12 @@
 # from the environment for the first two.
 SPHINXOPTS    =
 # SPHINXBUILD   = sphinx-build
-SPHINXBUILD   = python -msphinx
+SPHINXBUILD   = python -m sphinx
 SPHINXPROJ    = qrlib
+# specify the source file for building the documents
 SOURCEDIR     = .
-BUILDDIR      = _build
+# specify the output directory for the documents
+BUILDDIR      = /Users/tulyu/workspace/docs/_build
 
 # Put it first so that "make" without argument is like "make help".
 help:
