@@ -1,6 +1,11 @@
 # Changelog
 <!--next-version-placeholder-->
 
+## v0.5.0 (2023-05-29)
+### Feature
+
+* Test the build_command ([`6faede0`](https://github.com/tulyu96/lib/commit/6faede0e6a205ccff913404b7ff81ca3ec32892d))
+
 ## v0.4.0 (2023-05-29)
 ### Feature
 
