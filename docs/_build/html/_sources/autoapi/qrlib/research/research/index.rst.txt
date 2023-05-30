@@ -1,6 +1,0 @@
-:py:mod:`qrlib.research.research`
-=================================
-
-.. py:module:: qrlib.research.research
-
-
